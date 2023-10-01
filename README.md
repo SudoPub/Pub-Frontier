@@ -1,2 +1,3 @@
 # Pub-Frontier
-:elephant: Frontier Data Provider for Pub
+
+Frontier Data Provider for Pub
